@@ -8,4 +8,4 @@
 
 ## For WordPress Customisation
 
-You can contact me on [my email](mailto:solanki.malay@gmail.com) or at [Akshar Soft Solutions](http://www.aksharsoftsolutions.com) for wordpress customisation.
+You can contact me on [email](mailto:solanki.malay@gmail.com) or at [Akshar Soft Solutions](http://www.aksharsoftsolutions.com) for wordpress customisation.
